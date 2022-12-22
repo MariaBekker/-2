@@ -34,20 +34,20 @@
 
 //  Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
-void Test ()
-{
-int num = Convert.ToInt32(Console.ReadLine());
-if (num > 5)
-{
-Console.WriteLine("Выходной день");
-}
-else 
-{
-Console.WriteLine("Рабочий день");
-}
-}
-Console.WriteLine("Введите день недели: ");
-Test();
+// void Test ()
+// {
+// int num = Convert.ToInt32(Console.ReadLine());
+// if (num > 5)
+// {
+// Console.WriteLine("Выходной день");
+// }
+// else 
+// {
+// Console.WriteLine("Рабочий день");
+// }
+// }
+// Console.WriteLine("Введите день недели: ");
+// Test();
 
 
 
